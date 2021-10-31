@@ -1,0 +1,1 @@
+var sam= "we enjoy eating fresh fish";
